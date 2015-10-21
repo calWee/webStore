@@ -1,0 +1,25 @@
+#books{
+	padding: 10px 5px;
+	margin-top: 10px;
+	font: bold;
+	font: darkgrey;
+}
+
+#navvy{
+ 	list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    text-align: center;
+  
+}
+#navvy li {
+	display:inline;
+}
+
+#music div{
+	display:none;
+}
+
+#nujabes {
+	display:none;
+}
